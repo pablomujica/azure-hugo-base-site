@@ -4,3 +4,4 @@ title = 'My New Hugo Site'
 theme = 'cactus'
 
 relativeURLs = true
+publishDir = "docs"
