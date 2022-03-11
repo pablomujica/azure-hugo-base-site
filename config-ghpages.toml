@@ -1,0 +1,7 @@
+baseURL = 'https://5now.tech/azure-hugo-base-site/'
+languageCode = 'en-us'
+title = 'My New Hugo Site GH Pages'
+theme = 'cactus'
+
+relativeURLs = true
+publishDir = "docs"

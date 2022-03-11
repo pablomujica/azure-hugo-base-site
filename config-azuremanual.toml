@@ -1,0 +1,7 @@
+baseURL = 'https://azure-hugo-base-site-manual.5now.tech'
+languageCode = 'en-us'
+title = 'My New Hugo Site Azure Manual'
+theme = 'cactus'
+
+relativeURLs = true
+publishDir = "docs-azmanual"
